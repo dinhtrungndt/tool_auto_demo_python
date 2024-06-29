@@ -1,0 +1,22 @@
+[24000:756:0601/173957.128:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 125.0.6422.142 (not a warning)
+[24000:756:0601/173957.213:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
+[24000:756:0601/173957.213:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[24000:756:0601/173957.236:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[5632:3160:0601/173957.366:INFO:cpu_info.cc(53)] Available number of cores: 12
+[10840:10888:0601/173957.371:INFO:cpu_info.cc(53)] Available number of cores: 12
+[17612:24364:0601/173957.702:INFO:cpu_info.cc(53)] Available number of cores: 12
+[8576:19828:0601/173957.774:INFO:cpu_info.cc(53)] Available number of cores: 12
+[24000:756:0601/173957.971:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://app.golike.net/login/ (0)
+[22860:20572:0601/173958.064:INFO:cpu_info.cc(53)] Available number of cores: 12
+[24000:756:0601/173958.159:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.159:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.420:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.420:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.580:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.580:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.580:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.671:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[24000:756:0601/173958.671:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://app.golike.net/login/ (0)
+[20916:11596:0601/173959.690:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:247 to client_task_runner_.
+[20916:11596:0601/173959.690:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:247 to client_task_runner_.
+[24000:756:0601/173959.788:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
